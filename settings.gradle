@@ -1,0 +1,3 @@
+rootProject.name='BLECentral'
+include ':app'
+include ':blelibrary'

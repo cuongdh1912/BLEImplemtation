@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bleservice_seconds">seconds.</string>
+    <string name="bleservice_scan_start_toast">Scanning for</string>
+    <string name="bleservice_already_scanning">Scanning already started.</string>
+</resources>
